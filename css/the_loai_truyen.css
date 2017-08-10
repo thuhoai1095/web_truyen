@@ -242,3 +242,13 @@ hr{
     border: 1px solid #000;
     background-color: #9857ff;
 }
+
+@media screen and (max-width:780px) {
+
+    .img-textct21{
+    width: 100%;
+}
+    .textct21{
+        width: 90%;
+    }
+}

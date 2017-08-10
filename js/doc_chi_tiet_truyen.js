@@ -1,7 +1,6 @@
-
- language="javascript"
+language="javascript"
 // Lấy đối tượng
-var a_list = document.getElementsByClassName("show");
+var a_list = document.getElementsByid("setting");
 // Lặp và gán sự kiện
 for (var i = 0; i < a_list.length; i++) {
     a_list[i].onclick = function () {
@@ -9,6 +8,6 @@ for (var i = 0; i < a_list.length; i++) {
         return false
     };
 }
-$( "a" ).click(function() {
-    $( "p" ).show( "slow" );
+$( "formset" ).click(function() {
+    $( "formset" ).show( "setting" );
 });
