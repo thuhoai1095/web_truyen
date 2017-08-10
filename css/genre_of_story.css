@@ -1,0 +1,244 @@
+#main {
+    width: 100%;
+    height: auto;
+    background-color: gainsboro;
+    float: left;
+}
+
+#bodymain {
+    margin-left: 7%;
+    margin-right: 8%;
+    width: 85%;
+    float: left;
+}
+#header {
+    height: auto;
+    background-color: #9857ff;
+    width: 100%;
+    border: 1px solid #CDCDCD;
+    position: fixed;
+    float: left;
+}
+
+
+a:link {
+    text-decoration: none;
+}
+
+.tieumuc {
+    color: blue;
+    margin-left: 2%;
+}
+
+.img-circle {
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 5px;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.dropdown {
+    margin-top: 5px;
+    margin-bottom: 4px;
+    margin-left: 2px;
+    color: white;
+    float: left;
+}
+
+.text {
+    color: white;
+}
+
+.caret {
+    color: white;
+}
+
+.login {
+    color: white;
+    font-size: 12px;
+}
+
+.glyphicon-user {
+    color: white;
+    margin-top: 10px;
+}
+
+.glyphicon-log-in {
+    color: white;
+    margin-top: 10px;
+}
+
+#search {
+    width: 300px;
+    height: 25px;
+    margin-top: 17px;
+    font-size: 13px;
+    margin-left: 80px;
+}
+
+.btn {
+    margin-top: 17px;
+    height: 25px;
+    width: 65px;
+    font-size: 11px;
+}
+
+.navbar-right {
+    margin-right: 50px;
+}
+
+
+#content {
+    width: 100%;
+    min-height: 500px;
+    border: 1px;
+    float: left;
+    margin-top: 65px;
+    font-size: 14px;
+}
+
+#content1 {
+    border-top: 5px;
+    float: left;
+    background-color:white;
+    width: 100%;
+}
+
+#content2 {
+    float: left;
+    background-color: white;
+    margin-top: 1px;
+    width: 100%;
+}
+.imgcontent21,.imgcontent22,.imgcontent23{
+    width: 100%;
+    height: 250px;
+    margin-top: 10px;
+}
+.img-textct21{
+    width: 48%;
+    float: left;
+    margin-left: 10px;
+
+}
+.imgct21{
+    width: 50%;
+    float:left;
+
+}
+.textct21{
+    width: 45%;
+    float: left;
+}
+
+.imgcontent4{
+    float: left;
+}
+.img2 {
+
+    width: 100%;
+    margin-left: 2%;
+    float: left;
+}
+/*size ảnh so với khung img*/
+.list-thumbnail {
+    width: 90%;
+    height: 230px;
+}
+.list-thumbnail1{
+    width: 90%;
+    height: 270px;
+}
+.fontsize{
+    font-size: 14px;
+}
+.list-caption{
+    text-align: center;
+}
+#content3 {
+    float: left;
+    background-color: white;
+    border-top: 10px;
+    margin-top: 5px;
+    width: 100%;
+}
+
+#content4{
+    float: left;
+    background-color: white;
+    border-top: 10px;
+    width: 100%;
+}
+.pagination{
+    margin-left: 35%;
+}
+#content5{
+    float: left;
+    background-color: white;
+    border-top: 10px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+.prepage{
+    float: left;
+    margin-left: 10%;
+    padding: 10px;
+}
+.nextpage{
+    margin-left: 55%;
+    float: left;
+    padding: 10px;
+}
+#sidebar {
+    width: 26%;
+    min-height: 300px;
+    float: right;
+    margin-top: 70px;
+}
+#sidebar1{
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    float: left;
+    margin-bottom: 10px;
+}
+hr{
+    border-color: cadetblue;
+    width: 100%;
+    margin-top: -2px;
+}
+.sidebarstory{
+    font-size: 15px;
+    margin-left: 10px;
+    padding: 1px;
+    font-weight: bold;
+}
+.badge{
+    font-size: 15px;
+    font-weight: bold;
+}
+#sidebar2 {
+    margin-top: 10px;
+    background-color: white;
+    padding: 10px;
+}
+.list-inline{
+    font-size: 15px;
+}
+.red{
+    color: red;
+}
+.back{
+    color: #0f0f0f;
+}
+
+#footer {
+    width: 100%;
+    height: 60px;
+    clear: both;
+    border: 1px solid #000;
+    background-color: #9857ff;
+}

@@ -1,0 +1,162 @@
+.navbar.navbar-inverse{
+    background-color: #9857ff;
+}
+a:link {
+    text-decoration: none;
+}
+
+.tieumuc {
+    color: blue;
+    margin-left: 2%;
+}
+
+.img-circle {
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 5px;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.dropdown {
+    margin-top: 5px;
+    margin-bottom: 4px;
+    margin-left: 2px;
+    color: white;
+    float: left;
+}
+
+.text {
+    color: white;
+}
+
+.caret {
+    color: white;
+}
+
+.login {
+    color: white;
+    font-size: 12px;
+}
+
+.glyphicon-user {
+    color: white;
+    margin-top: 10px;
+}
+
+.glyphicon-log-in {
+    color: white;
+    margin-top: 10px;
+}
+
+/*#search {*/
+    /*width: 300px;*/
+    /*height: 25px;*/
+    /*margin-top: 17px;*/
+    /*font-size: 13px;*/
+    /*margin-left: 80px;*/
+/*}*/
+
+.btn {
+    margin-top: 17px;
+    height: 25px;
+    width: 65px;
+    font-size: 11px;
+}
+
+/*.navbar-right {*/
+    /*margin-right: 50px;*/
+/*}*/
+
+.btn.btn-primary{
+    width: 140px;
+    height: 40px;
+    font-size: 15px;
+    margin-left: 2%;
+    float: left;
+}
+#btn-primary{
+    width:300px;
+    height: 40px;
+    font-size: 15px;
+    margin-left: 2%;
+    float: left;
+}
+
+.chapter{
+    margin-top: 10px;
+    float: left;
+}
+
+
+
+
+
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {height: 2000px}
+
+.col-sm-4.img{
+    float: left;
+}
+.col-sm-8.text{
+    float: left;
+}
+.col-sm-12.container{
+    float: left;
+}
+.sidebarstory{
+    margin-left: 30px;
+}
+hr{
+    margin-top: -2px;
+}
+
+
+.pagination{
+margin-left: 10%;
+}
+
+.prepage{
+    float: left;
+    margin-left: 10%;
+    padding: 10px;
+    margin-top: 80px;
+}
+.nextpage{
+    float: left;
+    margin-left: 35%;
+    padding: 10px;
+}
+/* Set gray background color and 100% height */
+.sidenav {
+    padding-top: 20px;
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+/* Set black background color, white text and some padding */
+footer {
+    background-color: #555;
+    color: white;
+    padding: 15px;
+}
+
+ /*On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+    .col-sm-4.namechapter{
+        display: none;
+    }
+    .row.content {height:auto;}
+}
