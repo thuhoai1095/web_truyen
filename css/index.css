@@ -30,7 +30,7 @@ a:link {
 .img-circle {
     margin-top: 5px;
     margin-left: 50px;
-    margin-right: px;
+    margin-right: 0px;
     margin-bottom: 5px;
     width: 50px;
     height: 50px;
@@ -41,6 +41,9 @@ a:link {
     margin-bottom: 4px;
     margin-left: 2px;
     color: white;
+}
+.dropdown-menu{
+    background-color: cadetblue;
 }
 
 .text {
@@ -123,7 +126,7 @@ a:link {
     width: 23%;
     margin-left: 2%;
 }
-/*size ảnh so với khung img*/
+/*size ảnh so với khung image*/
 .list-thumbnail {
     width: 90%;
     height: 230px;
@@ -170,7 +173,7 @@ a:link {
     padding: 10px;
 }
 hr{
-    border-color: black;
+    border-color: cadetblue;
     width: 100%;
     margin-top: -2px;
 }

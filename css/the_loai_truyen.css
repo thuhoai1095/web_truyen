@@ -47,6 +47,10 @@ a:link {
     color: white;
     float: left;
 }
+.dropdown-menu{
+    background-color: cadetblue;
+}
+
 
 .text {
     color: white;
@@ -143,7 +147,7 @@ a:link {
     margin-left: 2%;
     float: left;
 }
-/*size ảnh so với khung img*/
+/*size ảnh so với khung image*/
 .list-thumbnail {
     width: 90%;
     height: 230px;

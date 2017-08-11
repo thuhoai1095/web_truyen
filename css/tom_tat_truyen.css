@@ -31,6 +31,9 @@ a:hover {
     color: white;
     float: left;
 }
+.dropdown-menu{
+    background-color: cadetblue;
+}
 
 .text1 {
     color: white;
@@ -137,6 +140,7 @@ a:hover {
 }
 hr{
     margin-top: -2px;
+    border-color: cadetblue;
 }
 
 .col-sm-7.text-left{
